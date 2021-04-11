@@ -1,7 +1,7 @@
 # EMRE USUN FIP
 I know I could not make good project. I had some problems always. I hope I can get some point.
 I had file size problem with git I hopen can fix it now :S
-git home
+git homegg
 
 #MIT License
 
